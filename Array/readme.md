@@ -19,7 +19,7 @@ Given an array A, find the max and min element and print them.
 Accept an array A, n, and flag.
 A = Array, n = nth element, flag = [true: max, false: min] (default: true).
 ```
-[C++](./Prob01/Prob01.cpp) | [Java](./Prob01/Prob01.java)
+[C++](./Prob03/Prob03.cpp) | [Java](./Prob03/Prob03.java)
 
 ## 04 [ Sort an array containing 0, 1, 2 without any sorting algo ]
 ```
