@@ -74,3 +74,5 @@ int main() {
     
     return 0;
 }
+
+// Time Complexity: O(nlogn) due to the merge sort performed
