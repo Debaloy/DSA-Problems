@@ -34,4 +34,17 @@ Order should not be disrupted.
 
 eg: [-1, 2, 3, -5, 0, -3] becomes [-1, -5, -3, 2, 3, 0]
 ```
-[C++](./Prob05/Prob05.cpp) | [Java]() | [JS]()
+[C++](./Prob05/Prob05.cpp) | [Java](./Prob05/Prob05.java) | [JS](./Prob05/Prob05.js)
+
+## 06 [ Find Union and Intersection of two sorted arrays ]
+```
+Given two arrays, find their union and intersection and print them.
+
+eg: Input:
+        a1 [ 2, 5, 9, 23 ]
+        a2 [ 1, 2, 9, 18, 32 ]
+    Output:
+        U: 2, 5, 9, 23, 1, 9, 18, 32
+        I: 2, 9
+```
+[C++]() | [Java]() | [JS]()
