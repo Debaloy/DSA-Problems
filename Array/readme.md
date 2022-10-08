@@ -1,7 +1,6 @@
 # Array Problems
 
-Total: 35
-Completed: 6
+Total: 35 | Completed: 6
 
 ## 01 [ Reverse an array ]
 ```

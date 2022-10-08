@@ -1,7 +1,6 @@
 # Matrix Problems
 
-Total: 10
-Completed: 2
+Total: 10 | Completed: 2
 
 ## 01 [ Spiral traversal on a Matrix ]
 ```
