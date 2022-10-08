@@ -1,6 +1,7 @@
 # DSA Problems
 
-Contains 450 problems in total.
+Total: 450
+Completed: 8
 
 ## [Array](./Array/readme.md)
 ## [Matrix](./Matrix/readme.md)

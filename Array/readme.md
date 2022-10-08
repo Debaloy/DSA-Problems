@@ -1,6 +1,7 @@
 # Array Problems
 
-Contains 35 problems.
+Total: 35
+Completed: 6
 
 ## 01 [ Reverse an array ]
 ```
@@ -47,4 +48,4 @@ eg: Input:
         U: 2, 5, 9, 23, 1, 9, 18, 32
         I: 2, 9
 ```
-[C++]() | [Java]() | [JS]()
+[C++](./Prob06/Prob06.cpp) | [Java]() | [JS]()
