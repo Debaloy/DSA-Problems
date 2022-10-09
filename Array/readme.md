@@ -48,3 +48,12 @@ eg: Input:
         I: 2, 9
 ```
 [C++](./Prob06/Prob06.cpp) | [Java]() | [JS]()
+
+## 07 [ Cyclically rotate an array by one ]
+```
+eg: Input:
+        arr: [ 1, 2, 3, 4, 5 ]
+    Output:
+        arr: [ 5, 1, 2, 3, 4 ]
+```
+[C++](./Prob07/Prob07.cpp) | [Java]() | [JS]()
