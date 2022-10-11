@@ -1,6 +1,6 @@
 # DSA Problems
 
-Total: 450 | Completed: 8
+Total: 450 | Completed: 10
 
 ## [Array](./Array/readme.md)
 ## [Matrix](./Matrix/readme.md)
